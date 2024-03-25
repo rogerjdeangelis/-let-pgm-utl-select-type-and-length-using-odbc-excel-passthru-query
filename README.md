@@ -4,9 +4,10 @@ Select type and length using odbc excel passthru query to a named range before i
 
     Select type and length using odbc excel passthru query to a named range before import
 
-    github
-    https://tinyurl.com/4tv99cpu
-    https://github.com/rogerjdeangelis/-let-pgm-utl-select-type-and-length-using-odbc-excel-passthru-query
+    github                                                                                       
+    https://tinyurl.com/yxprhehv                                                                 
+    https://github.com/rogerjdeangelis/utl-select-type-and-length-using-odbc-excel-passthru-query
+
 
     Note we use MS SQL inside excel to get type and length before we import
 
