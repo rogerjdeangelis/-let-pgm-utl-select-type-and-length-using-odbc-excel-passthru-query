@@ -8,6 +8,10 @@ https://github.com/rogerjdeangelis/utl-select-type-and-length-using-odbc-excel-p
 
 Note we use MS SQL inside excel to get type and length before we import
 
+github (create odbc DSN)
+https://tinyurl.com/mrenx557
+https://github.com/rogerjdeangelis/utl-drop-down-to-powershell-and-programatically-create-an-odbc-data-source-for-excel-wps-r-rodbc
+
 See MS SQL functions on end
 
 Related repos
