@@ -3,7 +3,11 @@ Select type and length using odbc excel passthru query to a named range before i
     %let pgm=utl-select-type-and-length-using-odbc-excel-passthru-query;
 
     Select type and length using odbc excel passthru query to a named range before import
-
+    
+    github (create odbc DSN)
+    https://tinyurl.com/mrenx557
+    https://github.com/rogerjdeangelis/utl-drop-down-to-powershell-and-programatically-create-an-odbc-data-source-for-excel-wps-r-rodbc
+    
     github                                                                                       
     https://tinyurl.com/yxprhehv                                                                 
     https://github.com/rogerjdeangelis/utl-select-type-and-length-using-odbc-excel-passthru-query
